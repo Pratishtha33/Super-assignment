@@ -1,0 +1,21 @@
+Email,Name,CreditScore,CreditLines,MaskedPhoneNumber
+user1@example.com,John Smith,720,3,***-***-1234
+user2@example.com,Jane Doe,650,2,***-***-5678
+user3@example.com,Alice Johnson,800,4,***-***-9012
+user4@example.com,Bob Williams,600,1,***-***-3456
+user5@example.com,Charlie Brown,750,5,***-***-7890
+user6@example.com,Daisy Davis,700,2,***-***-2345
+user7@example.com,Edward Miller,680,3,***-***-6789
+user8@example.com,Fiona Wilson,730,4,***-***-0123
+user9@example.com,George Moore,620,1,***-***-4567
+user10@example.com,Hannah Taylor,770,5,***-***-8901
+user11@example.com,Isabella Anderson,790,2,***-***-3456
+user12@example.com,Jack Thomas,610,3,***-***-7890
+user13@example.com,Katherine Jackson,680,4,***-***-1234
+user14@example.com,Liam White,740,1,***-***-5678
+user15@example.com,Mia Harris,700,5,***-***-9012
+user16@example.com,Nathan Martin,760,2,***-***-3456
+user17@example.com,Olivia Thompson,630,3,***-***-7890
+user18@example.com,Paul Garcia,680,4,***-***-1234
+user19@example.com,Quinn Martinez,720,1,***-***-5678
+user20@example.com,Rachel Robinson,780,5,***-***-9012
